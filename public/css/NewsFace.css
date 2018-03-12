@@ -1,0 +1,52 @@
+.NewsP{
+	width: 100%;
+	height: 60%;
+}
+
+.NewsP .NewsP1{
+	width: 100%;
+/*	height: 10%;*/
+	display: block;
+}
+.NewsP .NewsP1 .NewsText{
+	width: 94%;
+	margin: 0 auto;
+	padding-top: 2%;
+	color: #000000;
+}
+.NewsP .NewsP1 .NewsDate{
+	width: 94%;
+	height: 30%;
+	margin: 0 auto;
+	padding-bottom: 1%;
+	text-align: right;
+	color: black;
+}
+.NewsP .NewsP2{
+	width: 100%;
+	/*height: 10%;*/
+	background-color: #A9A9A9;
+}
+.NewsP .NewsP2 .NewsText{
+	width: 94%;
+	margin: 0 auto;
+	padding-top: 2%;
+}
+.NewsP .NewsP2 .NewsDate{
+	width: 94%;
+	height: 30%;
+	margin: 0 auto;
+	padding-bottom: 1%;
+	text-align: right;
+	color: black;
+}
+
+
+.NewsP  a{
+	font-size: 1em;
+	color: white;
+	display: block;
+}
+.NewsP div{
+	
+}

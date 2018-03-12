@@ -1,0 +1,24 @@
+.main{
+	width: 100%;
+	/*background-color: red;*/
+	overflow: hidden;
+}
+.m_box{
+	width: 96%;
+	margin: 50px auto;
+	position: relative;
+}
+.m_b_img, .m_b_img > img{
+	width: 100%;
+}
+.m_label{
+	width: 10%;
+	position: absolute;
+	top: 0;
+	right: 5%;
+	/*background-color: palegreen;*/
+	display: none;
+}
+.m_label > img{
+	width: 100%;
+}

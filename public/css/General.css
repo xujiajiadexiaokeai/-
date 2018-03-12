@@ -1,0 +1,176 @@
+html{
+	width: 100%;
+	height: 100%;
+}
+
+body{
+	height: 100%;
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: 	#EAEAEA;
+}
+
+a:link{
+	text-decoration: none;
+	color: dimgrey;
+	font:  "微软雅黑";
+}
+a:visited{
+	color: indianred;
+}
+/*.LogoAndNav{
+	width: 100%;
+	height: 40%;	
+}
+.LogoAndNav .Logo{
+	padding-top:5px;
+	width: 100%;
+	height: 60%;
+}
+.LogoAndNav .Logo a{
+	width: 100%;
+	height: 100%;
+}
+.LogoAndNav .Logo a img{
+	padding-left:2%;
+	padding-right:2%;
+	width: 96%;
+	max-width: 96%;
+}*/
+
+
+/*
+ * 留存备用
+ * .LogoAndNav{
+	width: 100%;
+	height: 18%;
+}*/
+/*.LogoAndNav .Logo{
+	width: 100%;
+	height: 58%;
+}*/
+/*.LogoAndNav .Logo a{
+	width: 100%;
+	display: block;
+}*/
+/*.LogoAndNav .Logo a img{
+	padding-top: 2%;
+	padding-left: 2%;
+	max-width: 96%;
+	max-height: 96%;
+}*/
+
+
+/*
+ * 留存备用
+ * .LogoAndNav .Nav{
+	width: 100%;
+	height: 40%;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	background-color: darkgray;
+	text-align: center;
+}
+.LogoAndNav .Nav .NavA{
+	font-size: 1.1em;
+	color: white;
+	padding: 2% 4%;
+}*/
+.LogoAndNav .Logo a{
+	display: block;
+}
+.LogoAndNav .Logo a img{
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+	max-width: 98%;
+	max-height: 97%;
+}
+
+
+.LogoAndNav .Nav{
+	/*width: 100%;
+	height: 42%;*/
+	color: white;
+	background-color: darkgray;
+}
+.LogoAndNav .Nav .NavTable{
+	width: 100%;
+	text-align: center;
+	font-size: 1.3em;
+}
+.LogoAndNav .Nav .NavTable tbody{
+	width: 100%;
+	height: 100%;
+}
+.LogoAndNav .Nav .NavTable a{
+	color: white;
+	padding: 4% 0;
+	display: block;
+	width: 100%;
+	height: 100%;
+}
+.LogoAndNav .Nav .NavTable .line{
+	color: black;
+}
+
+
+
+/*新闻详情页 */
+
+.MainBody .acticle{
+	width:100%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.acticle h1 {
+	font-size:18px;
+	width:90%;
+    text-align: center;
+	margin-top: 10px;
+	margin-left:auto;
+	margin-right:auto;
+    color: #000;
+    font-weight: bold;
+
+}
+.acticle h2 {
+	font-size:10px;
+    color: #aaaaaa;
+    text-align: center;
+    margin-bottom: 25px;
+}
+.acticle_con {
+	font-size:14px;
+    width: 90%;
+    margin: 0 auto;
+    line-height: 18px;
+    color: #525252;
+}
+
+.acticle_con img{
+	width: 100%;
+	height: 10%;
+	display: block;
+	margin: 0 auto;
+
+}
+.r_bot {
+    text-align: center;
+    background-image:url(../img/l_9.jpg);
+    height: 7px;
+    background-repeat: repeat-x;
+    background-position: left bottom;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+}
+
+
+/*友情连接*/
+.friendlink{
+	margin-bottom:10px;
+	text-align:center;
+}

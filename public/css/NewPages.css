@@ -1,0 +1,28 @@
+.Text{
+	width: 100%;
+}
+.title{
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 2%;
+	text-align: center;
+}
+.info{
+	color: #aaaaaa;
+	text-align: center;
+}
+.article{
+	width: 94%;
+	margin: 0 auto;
+}
+.article p{
+	text-indent: 2em;
+	
+}
+.pics{
+	width: 100%;
+	margin: 0 auto;
+}
+.pics img{
+	max-width:100%
+}

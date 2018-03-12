@@ -1,0 +1,12 @@
+.banner{
+	width: 100%;
+}
+.b_img, .b_img>img{
+	width: 100%;
+	/*固定定位 只参考当前屏幕*/
+	/*position: fixed;*/
+	/*top: 0;*/
+	/*left: 0;*/
+	/*提高定位等级*/
+	/*z-index: 1000;*/
+}

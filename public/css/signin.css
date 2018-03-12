@@ -1,0 +1,74 @@
+body {
+  padding-top: 40px;
+  padding-bottom: 40px;
+ 	background-color: #dbd6cc;
+ }
+.container{
+	padding: 0;
+}
+.form-signin {
+  max-width: 300px;
+  margin: 0 auto;
+}
+.logoBox{
+	width: 300px;
+	border: 1px solid #F2F2F2;
+	border-bottom-color: #c7bdbd;
+	border-radius: 10px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+.loginBox{
+	width: 300px; 
+	border: 1px solid #F2F2F2;
+	border-radius: 10px;
+	background-color: #F5F5F5;
+	margin: 0 auto;
+}
+.form-signin .form-signin-heading{
+	text-align: center;
+	font-size: 1.5em;
+	font-weight: 600;
+}
+.form-signin .form-control {
+  position: relative;
+  height: auto;
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+  padding: 10px;
+  font-size: 1em;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+	width: 90%;
+	margin: auto;
+  margin-bottom: -1px;
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+  margin-top: 30px;
+}
+.form-signin input[type="password"] {
+	width: 90%;
+	margin: auto;
+  margin-bottom: 10px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+.logo{
+	width: 100%;
+	padding-top: 30px;
+	margin-bottom: 20px;
+}
+.logo > img{
+	width: 30%;
+	margin-left: 35%;
+	border-radius:50%;
+}
+.loginBox > .btn{
+	width: 50%;
+	margin: auto;
+	margin-bottom: 20px;
+}

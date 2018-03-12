@@ -1,0 +1,79 @@
+@charset "utf-8";
+/* CSS Document */
+/*在此加入对四个大写字母htmlcss的覆盖，LogoAndNav */
+/*.LogoAndNav{
+	width: 100%;
+	height: 20%;
+}
+.LogoAndNav .Logo{
+	width: 100%;
+	height: 50%;
+}*/
+.LogoAndNav .Logo a{
+	display: block;
+}
+.LogoAndNav .Logo a img{
+	padding-top: 2%;
+	padding-left: 2%;
+	padding-bottom: 1%;
+	max-width: 98%;
+	max-height: 97%;
+}
+.LogoAndNav .Nav{
+	/*width: 100%;
+	height: 50%;*/
+	color: white;
+	background-color: darkgray;
+}
+
+/*导航栏table */
+.tb_list{
+	/*max-height: 100%;*/
+	color:#000000;
+	margin:0 auto;
+	/*height: 100%;*/
+	width: 90%;
+	text-align:center;
+}
+.tb_list tbody{
+	width: 100%;
+	height: 100%;
+}
+.tb_list a{
+	padding: 3% 0;
+	font-size: 1.15em;
+	display: block;
+	color:white;
+}
+/*.tb_list a:hover{
+	font-size:20px;
+}*/
+.tb_list .ah{
+	color:#000000;
+	/*font-size:20px;*/
+}
+.tb_dblist{
+	border:thin;
+	border-style:solid;	
+	margin-top:20px;
+	width:100%;
+
+}
+.tb_dblist caption{
+	background-color:lightgray;
+	font-size:18px;
+	text-align:center;
+	font-weight:bold;
+}
+.tb_dblist .title_dblist{
+	background-color:#ccc;
+}
+.tb_dblist .th1{
+	width:60%;
+	text-align:center;
+}
+.tb_dblist .text_dblist1{
+	color:#000000;
+	background-color:lightgrey;
+}
+
